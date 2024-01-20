@@ -1,0 +1,10 @@
+body {
+width: 100%;
+background-image:url('фон2.jpeg');
+background-size:100%;
+background-repeat:no-repeat;
+color: black;
+text-size: 100px;
+}
+
+table {text-size: 100px; }
